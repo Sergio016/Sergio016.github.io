@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Título de mi Documentación
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido a la documentación de mi proyecto. Aquí encontrarás información útil sobre cómo usar y contribuir a este proyecto.
 
-## Commands
+## Introducción
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+En esta sección, proporcionaré una breve introducción al proyecto y explicaré su propósito.
 
-## Project layout
+## Instalación
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Requisitos previos
+
+Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
+
+- Python >= 3.6
+- pip (administrador de paquetes de Python)
+
+### Instalación de MkDocs
+
+Puedes instalar MkDocs ejecutando el siguiente comando:
+
+```bash
+pip install mkdocs
