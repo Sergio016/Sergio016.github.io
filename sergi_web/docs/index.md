@@ -1,9 +1,23 @@
-# Sobre Mí
+# Título de mi Documentación
 
-¡Hola! Soy Sergio, soy de Madrid y me apasiona el fútbol, la informática y las motos.
+Bienvenido a la documentación de mi proyecto. Aquí encontrarás información útil sobre cómo usar y contribuir a este proyecto.
 
-En mi tiempo libre, disfruto viendo partidos de fútbol, programando y aprendiendo sobre nuevas tecnologías en el mundo de la informática. También me encanta salir a pasear en moto y explorar nuevos lugares.
+## Introducción
 
-Estoy emocionado de compartir mis conocimientos y experiencias contigo en este sitio.
+En esta sección, proporcionaré una breve introducción al proyecto y explicaré su propósito.
 
-¡Espero que disfrutes explorando mi página!
+## Instalación
+
+### Requisitos previos
+
+Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
+
+- Python >= 3.6
+- pip (administrador de paquetes de Python)
+
+### Instalación de MkDocs
+
+Puedes instalar MkDocs ejecutando el siguiente comando:
+
+```bash
+pip install mkdocs
