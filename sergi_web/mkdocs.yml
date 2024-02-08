@@ -1,9 +1,9 @@
 site_name: Sergio
 
-themes:
+theme:
   name: readthedocs
   nav_style: dark
 
 nav:
-  - inicio: "index.md"
-  - documentacion: "documentacion.md"
+  - Inicio: "index.md"
+  - Documentacion: "documentacion.md"
