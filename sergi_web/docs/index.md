@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Sobre Mí
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+¡Hola! Soy Sergio, soy de Madrid y me apasiona el fútbol, la informática y las motos.
 
-## Commands
+En mi tiempo libre, disfruto viendo partidos de fútbol, programando y aprendiendo sobre nuevas tecnologías en el mundo de la informática. También me encanta salir a pasear en moto y explorar nuevos lugares.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Estoy emocionado de compartir mis conocimientos y experiencias contigo en este sitio.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+¡Espero que disfrutes explorando mi página!
