@@ -1,5 +1,6 @@
 site_name: Sergio
 
+<<<<<<< HEAD
 theme:
   name: readthedocs
   nav_style: dark
@@ -7,3 +8,7 @@ theme:
 nav:
   - Inicio: "index.md"
   - Documentacion: "documentacion.md"
+=======
+nav:
+  - Inicio: "index.md"
+>>>>>>> 00b3354f83da93ef6e846b9eb6890e09dad4e161
