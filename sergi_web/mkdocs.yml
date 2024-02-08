@@ -1,9 +1,0 @@
-site_name: Sergio
-
-theme:
-  name: readthedocs
-  nav_style: dark
-
-nav:
-  - Inicio: "index.md"
-  - Documentacion: "documentacion.md"
