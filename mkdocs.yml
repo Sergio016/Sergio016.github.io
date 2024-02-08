@@ -5,5 +5,5 @@ theme:
   nav_style: dark
 
 nav:
-  - Inicio: "index.md"
-  - Documentacion: "documentacion.md"
+  - Inicio: "docs/index.md"
+  - Documentacion: "docs/documentacion.md"
